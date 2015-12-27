@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Kamus Tiga Bahasa</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="inggris">Inggris</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="sunda">Sunda</string>
+    <string name="terjemah">Terjemahkan</string>
+    <string name="editInggris"></string>
+    <string name="indonesia2">Indonesia</string>
+    <string name="inggris2">Inggris</string>
+    <string name="sunda2">Sunda</string>
+    <string name="ok">OK</string>
+    <string name="save">Simpan</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_title">Edit Kamus</string>
+    <string name="delete_title">Hapus Kata, And yakin ?</string>
+    <string name="title_activity_indo_sund_inggris_fragment">IndoSundInggrisFragment</string>
+    <string name="title_activity_sund_indo_inggris">SundIndoInggris</string>
+    <string name="title_activity_ingg_indo_sund">InggIndoSund</string>
+
+    <!-- Sliding Menu items -->
+    <string-array name="nav_drawer_items">
+        <item >HOME</item>
+        <item >Daftar Kata</item>
+        <item >Tambah Kata</item>
+        <item >Tentang</item>
+        <item >Keluar</item>
+    </string-array>
+
+    <!-- Sliding Menu item icons -->
+    <array name="nav_drawer_icons">
+    <item>@drawable/home</item>
+    <item>@drawable/notifications</item>
+    <item>@drawable/tambah</item>
+    <item>@drawable/about</item>
+    <item>@drawable/stop32</item>
+
+    </array>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_daftar_kata">DaftarKata</string>
+    <string name="title_activity_tambah_kata">TambahKata</string>
+    <string name="title_activity_splashscreen">Splashscreen</string>
+    <string name="title_activity_tentang">Tentang</string>
+</resources>
